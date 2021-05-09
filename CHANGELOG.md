@@ -1,3 +1,6 @@
-## [0.0.1] - 20/08/2020.
+## [0.0.3] 
 
-* Initial release
+* Null-Safety enabled
+* Doesn't depend on flutter anymore
+
+## [0.0.1]
